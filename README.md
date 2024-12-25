@@ -7,7 +7,7 @@ Synopsis:
 ```
 HexString [-d | -c] --decompress --coompress
 ```
-The rom must be "Battletoads & Double Dragon - The Ultimate Team.nes" CEB65B06, rename or change line 116
+The rom must be "Battletoads & Double Dragon - The Ultimate Team.nes" CR-32: CEB65B06, rename the rom or change in line 116.
 
 ## Frecuency Answer Questions
 
