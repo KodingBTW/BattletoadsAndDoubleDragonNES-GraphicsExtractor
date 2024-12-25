@@ -5,7 +5,7 @@ This tool was partially tested so use it with discretion.
 
 Synopsis:
 ```
-btdd2bin.py [-d | -c] --decompress --coompress
+btdd2bin.py [-d | -c] --decompress --compress
 ```
 The rom must be "Battletoads & Double Dragon - The Ultimate Team.nes" CR-32: CEB65B06, rename the rom or change in line 116.
 
